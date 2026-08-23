@@ -1,0 +1,602 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/marketerarifImages/marketerarifHossain.jpg",
+      "title": "Syed Abdul<br />  Hamid  ",
+      "subTitle": "Hello, I’m",
+      "designation": "Web Analytics|CRO|GA4|GTM",
+      "fiverr": "https://www.fiverr.com/tracking_by_gtm",
+      "upwork": "https://www.upwork.com/freelancers/~012d80876040ca25f7"
+    },
+
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Hamid </span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/marketerarifImages/marketerarif.jpg",
+    "cvPdf": "/images/SyedAbdulHamid.pdf",
+    "title": "Hi There! I'm Syed Abdul Hamid",
+    "subtitle": "Web analyst expert",
+    "text": "I am a dedicated digital marketing professional with a passion for harnessing data to drive online success. Specializing in Google Ads, Google Analytics 4 (GA4), Google Tag Manager (GTM), and Meta Pixel, I empower businesses to optimize their digital strategies and achieve measurable growth.",
+    "details": [
+      {
+        "title": "Phone",
+        "info": "+88 0174-9827904"
+      },
+      {
+        "title": "Email",
+        "info": "office.tbgtm@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Nilphmari, Bangladesh"
+      },
+      {
+        "title": "Language",
+        "info": "English, Bangla"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "GA4 Implementation & Optimization",
+        "text": "Upgrade your analytics with Google Analytics 4 (GA4) implementation, offering powerful insights into user journeys and events across your website and apps.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "Web Analytics & Reporting",
+        "text": "Unlock insights from your website’s data with detailed web analytics and reporting, helping you track user behavior, identify trends, and make informed decisions to improve performance.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Google Ads Campaign Management",
+        "text": "Maximize your ad spend with expertly managed Google Ads campaigns, including keyword research, ad creation, and performance tracking to drive quality traffic.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Facebook Pixel Integration",
+        "text": "Ensure accurate tracking of Facebook Ads performance by setting up and optimizing Facebook Pixel on your website for precise event tracking and better ad targeting.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Google Tag Manager Setup",
+        "text": "Streamline your website’s tracking with professional Google Tag Manager (GTM) setup, allowing seamless integration for all your tags, events, and third-party tools.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "WordPress & Shopify Development",
+        "text": "Create high-performing, SEO-friendly websites on WordPress and Shopify that are tailored for user experience and optimized for conversions.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills I have in my field of work are highlighted below.",
+    "text": "With years of experience in digital marketing, web development, and analytics, I’ve gained proficiency in tools and techniques that drive measurable results. From optimizing websites to setting up advanced tracking mechanisms, I possess the expertise to enhance user experience and improve business performance through data-driven strategies.",
+    "skills": [
+      {
+        "title": "Google Ads",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Meta Ads",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Facebook Pixel Integration (CAPI)",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "GA4 with GTM",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Website Development",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Ecommerce Boost",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 1.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 1.png",
+        "title": "Search Ads Campaign",
+        "subTitle": "Targeting for Maximum ROI ",
+        "description": "A successful Google Ads campaign aimed at eCommerce shoppers, focusing on high-intent search terms, resulting in a 35% increase in conversion rates.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result  4.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result  4.png",
+        "title": "Remarketing Success Story",
+        "subTitle": " Bringing Back Lost Customers",
+        "description": "A remarketing strategy targeting previous visitors, achieving a 40% increase in returning customers and improved customer retention rates.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 3.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 3.png",
+        "title": "Google Shopping Campaign ",
+        "subTitle": "Enhancing Product Listings",
+        "description": "A Google Shopping campaign with enhanced product listings and bid adjustments, resulting in a 15% increase in product page clicks and sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4  1.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4  1.webp",
+        "title": "Google Analytics (GA4)",
+        "subTitle": "Enhanced eCommerce Tracking Setup",
+        "description": "Setting up enhanced eCommerce tracking for an online store, enabling deeper insights into product performance and user behavior, resulting in a 20% boost in sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4 .webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleAnalytics4/Google analytics 4 .webp",
+        "title": "Advanced Goal Conversion Tracking ",
+        "subTitle": "Measuring Success through Accurate Conversion Data",
+        "description": "Implementing advanced goal tracking to measure critical business outcomes, leading to a 15% improvement in marketing campaign performance.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 1.webp",
+        "title": "Googlr Looker Studio",
+        "subTitle": " Sales Performance Dashboard",
+        "description": "A Google Looker dashboard providing real-time sales data, helping business stakeholders make quick, informed decisions, leading to a 25% improvement in sales strategy.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/fbpixel/facebook pixel.webp",
+        "imgLinkLg": "/images/marketerarifImages/fbpixel/facebook pixel.webp",
+        "title": "Enhanced Conversion Tracking",
+        "subTitle": "Collection for eCommerce Data",
+        "description": "Implemented Facebook's Conversion API to capture server-side data, improving the accuracy of conversion tracking by 30% and reducing data loss from ad blockers.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/fbpixel/facebook pixel 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/fbpixel/facebook pixel 1.webp",
+        "title": "FB Conversion API",
+        "subTitle": "Data Accuracy Boost with Conversion API ",
+        "description": "Integrated Facebook's Conversion API to improve the reliability of ad data, resulting in a 20% increase in campaign performance by better matching conversions to ad interactions.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 2.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleLookerStudio/Googlelooker 2.webp",
+        "title": "Product Performance Dashboard ",
+        "subTitle": "Monitoring Top-Performing Products",
+        "description": "A detailed Google Looker dashboard tracking product performance, helping the client optimize inventory and focus on best-sellers, leading to a 30% increase in sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 1.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 1.webp",
+        "title": "Google merchant center ",
+        "subTitle": "Optimizing Product Listings",
+        "description": "Developed and optimized product feeds for Google Merchant Center, leading to a 35% increase in product visibility and a 20% boost in sales through Shopping Ads.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 2.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 2.webp",
+        "title": "Advanced Feed Management ",
+        "subTitle": "Listings for Better Performance",
+        "description": "Managed and optimized product feeds for over 10,000 SKUs, reducing feed errors by 40% and improving campaign efficiency by generating targeted Google Shopping ads.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/gmc/google merchant center 3.webp",
+        "imgLinkLg": "/images/marketerarifImages/gmc/google merchant center 3.webp",
+        "title": "Google Merchant Center",
+        "subTitle": "Targeted Shopping Ads",
+        "description": "Utilized Google Merchant Center to create seasonal product listings, resulting in a 25% increase in sales during holiday seasons through customized shopping campaigns.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleTagManager/googletagmanager.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleTagManager/googletagmanager.webp",
+        "title": "Google Tag Manager",
+        "subTitle": "Streamlined Tag Implementation",
+        "description": "Implemented a comprehensive tagging strategy using GTM for an eCommerce store, enabling detailed tracking of user behavior and purchase funnels. Resulted in a 20% improvement in conversion rate optimization (CRO) insights.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleTagManager/Google tagmanager events data.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleTagManager/Google tagmanager events data.webp",
+        "title": "Enhanced Event Tracking",
+        "subTitle": "Tracking User Interactions",
+        "description": "Configured custom event tracking tags for key user actions, such as add-to-cart and product view, leading to a 15% increase in actionable insights that helped refine marketing strategies.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/GoogleTagManager/googletagmanager 2.webp",
+        "imgLinkLg": "/images/marketerarifImages/GoogleTagManager/googletagmanager 2.webp",
+        "title": " Google Ads Tracking via GTM",
+        "subTitle": "ccurate Conversion Data",
+        "description": "Set up Google Ads conversion tracking using GTM, providing precise data on ad performance. This enabled a 25% increase in campaign efficiency by refining targeting based on accurate conversion paths.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 5.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 5.png",
+        "title": "Google ads ",
+        "subTitle": "Video Ads Driving eCommerce Sales",
+        "description": " An engaging video ad strategy that targeted specific user demographics, leading to a 25% increase in video ad engagement and sales growth.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result  6.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result  6.png",
+        "title": "Google ads ",
+        "subTitle": "Enhancing Product Listings",
+        "description": "A Google Shopping campaign with enhanced product listings and bid adjustments, resulting in a 15% increase in product page clicks and sales.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 7.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 7.png",
+        "title": "High-Converting Search Ads for eCommerce",
+        "subTitle": "Targeted Google Search Campaigns",
+        "description": "Developed and managed a Google Search campaign for an eCommerce business, focusing on high-intent keywords. Achieved a 35% increase in conversion rate and a 28% lower cost per acquisition (CPA).",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 8.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 8.png",
+        "title": "Remarketing for Abandoned Cart Recovery",
+        "subTitle": "Bringing Customers Back ",
+        "description": "Tailored Ads, Implemented dynamic remarketing ads that targeted users who abandoned their carts. The campaign resulted in a 40% increase in cart recovery rate and a 20% lift in revenue from returning customers.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 9.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 9.png",
+        "title": "GAds for Product-Level Targeting",
+        "subTitle": "Driving Qualified Traffic",
+        "description": " Launched a Google Shopping campaign to promote a specific product line, optimizing product feed and bids. The campaign delivered a 50% increase in qualified traffic and a 25% improvement in ROAS (Return on Ad Spend).",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/marketerarifImages/Googleads/Google ads  result 10.png",
+        "imgLinkLg": "/images/marketerarifImages/Googleads/Google ads  result 10.png",
+        "title": "Performance Max Campaign ",
+        "subTitle": "Full-Funnel Performance with Google Ads",
+        "description": " Launched a Performance Max campaign, combining search, display, YouTube, and shopping ads into a unified strategy. The campaign delivered a 30% increase in conversions and a 25% improvement in cost efficiency across channels.",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Syed Abdul Hamid",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/phillip.jpg",
+        "title": "Philipp",
+        "designation": "Founder p2coaching.de",
+        "text": "I needed help with Google Analytics 4 and GTM integration for my WordPress site, and Tracking_by_gtm exceeded my expectations. They explained everything clearly and made the whole process easy to understand. Great service!"
+      },
+      {
+        "imgLink": "/images/client/david.jpeg",
+        "title": "David Perl",
+        "designation": "Owner Labrigart",
+        "text": "Very professional and knowledgeable! I hired Tracking_by_gtm to handle my Google Ads conversion tracking and GA4 setup. Everything was done perfectly, and I’m already seeing improvements in my campaigns. Will definitely hire again."
+      },
+      {
+        "imgLink": "/images/client/Richard Miles.jpg",
+        "title": "Richard Miles",
+        "designation": "Website Owner",
+        "text": "Top-notch service! Tracking_by_gtm handled my Facebook Pixel setup through Google Tag Manager with great efficiency. They were patient and answered all my questions, making sure I understood every step. Highly recommended!"
+      },
+      {
+        "imgLink": "/images/client/jacob.jpg",
+        "title": "Jacob Freudiger",
+        "designation": "Founder Onepoint-film",
+        "text": "Tracking_by_gtm is my go-to expert for all things Google Analytics and Tag Manager. I’ve worked with them on multiple projects and they always deliver excellent results. Super easy to work with and highly reliable!"
+      },
+      {
+        "imgLink": "/images/client/tim.jpg",
+        "title": "Junaid Sheikh",
+        "designation": "Shopify Store Owner",
+        "text": "Amazing experience working with Tracking_by_gtm! They helped set up Google Tag Manager and Facebook Pixel on my Shopify store flawlessly. Communication was clear, and the work was delivered even faster than expected. Highly recommend for any tracking needs!"
+      },
+      {
+        "imgLink": "/images/client/Richard Miles.jpg",
+        "title": "Lorenz",
+        "designation": "Managing Director",
+        "text": "Great work ! Very quick to get me solutions. He left everything to fix an immediate problem I had. I would not look elsewhere. Amazing !"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Founder TrackingbyGTM",
+        "duration": "June 2023 - Present",
+        "subTitle": "Tutor entrepreneur ",
+        "text": "As the founder of TrackingbyGTM, I specialize in teaching businesses and individuals how to leverage tools like Google Tag Manager (GTM) and Facebook Pixel to track user behavior and optimize digital marketing efforts. I design and deliver in-depth courses that simplify complex tracking systems, helping professionals implement data-driven strategies for better performance."
+      },
+      {
+        "title": "Digital makreting course tutor",
+        "duration": "Jan 2020 - December 2023",
+        "subTitle": "Skillupper & WebVisionsBD",
+        "text": "I have been a lead tutor for digital marketing courses, covering core areas such as Google Ads, GA4, GTM, and Facebook Pixel. At Skillupper and WebVisionsBD, I’ve helped students and businesses master the skills needed to run successful digital marketing campaigns and enhance their online presence. My courses focus on practical implementation and measurable results."
+      },
+      {
+        "title": "Web Analytics Expert ",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "GA4,GTM,FB(CAPI),GMC,Google ads ",
+        "text": "During this period, I worked as a Web Analytics Expert, providing data-driven insights to optimize online performance. I implemented advanced analytics setups using Google Analytics 4 (GA4), Google Tag Manager (GTM), Facebook Conversion API (CAPI), Google Merchant Center (GMC), and Google Ads. My expertise helped businesses track critical metrics, make informed decisions, and improve their digital marketing strategies."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Master of Computer Science",
+        "duration": "2024 - 2025",
+        "subTitle": "Jahangirnagar University",
+        "text": "Jahangirnagar University is a fully residential public research university located in Savar, Dhaka, Bangladesh. Known for its beautiful campus and vibrant academic environment, it offers a wide range of programs across various disciplines. The university is recognized for its strong emphasis on research and education,"
+      },
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2018 - 2022",
+        "subTitle": "Dhaka University of Engineering and Technology",
+        "text": "Dhaka University of Engineering & Technology (DUET), Gazipur, commonly known as DUET and formerly BIT Dhaka, is a public engineering and technological research university located in Gazipur, Bangladesh. DUET specializes in offering undergraduate and postgraduate degrees in engineering"
+      },
+      {
+        "title": "Diploma in Computer Science",
+        "duration": "2014 - 2018",
+        "subTitle": "Dinajpur Polytechnic institute",
+        "text": "DINAJPUR Polytechnic institute a largest and reputed Government polytechnic institute in Bangladesh which was established in 1964."
+      },
+      {
+        "title": "✅ Certifications:",
+        "duration": "",
+        "subTitle": "Provider: Google",
+        "text": "• Google Ads Display Certification\n• Google Ads Search Certification\n• Google Analytics Individual Qualification\n• Google Ads Measurement Certification\n• Google Ads Video Certification\n• Fundamentals of Digital Marketing\n• Google Ads Fundamentals"
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "I'm always here to assist you. Whether you have inquiries about our services, need support, or just want to get in touch, feel free to reach out via the methods below. Our team will respond promptly to ensure you have all the information and assistance you need."
+  },
+  "socialData": [
+    {
+      "icon": "whatsapp",
+      "title": "WhatsApp",
+      "link": "https://wa.me/8801749827904"
+    },
+    {
+      "icon": "facebook-f",
+      "title": "Facebook",
+      "link": "https://facebook.com/marketerarifhossain"
+    },
+    {
+      "icon": "youtube",
+      "title": "YouTube",
+      "link": "https://youtube.com/@trackingbygtm"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/marketerarifhossain/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}

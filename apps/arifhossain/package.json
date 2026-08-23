@@ -1,0 +1,38 @@
+{
+  "name": "Arif Hossain",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.3.8",
+    "gsap": "^3.15.0",
+    "html-react-parser": "^4.2.10",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.4",
+    "react-scroll": "^1.9.3",
+    "react-slick": "^0.29.0",
+    "react-water-wave": "^2.0.1",
+    "sass": "^1.102.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.1",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.26",
+    "vite": "^4.5.14"
+  }
+}
